@@ -1,20 +1,20 @@
 lang: en
-title: Jekyll-Twitter-Theme
-description: A twitter theme for Jekyll.
+title: X (Twitter)
+description: X, but not X
 
 global:
   # site icon should have 1:1 aspect ratio
-  site_icon: "https://avatars3.githubusercontent.com/u/3083652?s=200&v=4"
+  site_icon: "https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_400x400.jpg"
   nav:
     caption_home: "Home"
   profile:
     image:
-      url: "https://avatars3.githubusercontent.com/u/3083652?s=200&v=4"
+      url: ""
     name: "Jekyll Blog"
     id: "@jekyll_blog"
   post:
     default_thumbnail: "https://avatars3.githubusercontent.com/u/3083652?s=200&v=4"
   twitter:
     show_twitter_embed_timeline: true
-    target_id: "google"
+    target_id: "dewan_mukto"
     limit: 5
