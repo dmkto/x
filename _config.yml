@@ -9,9 +9,9 @@ global:
     caption_home: "Home"
   profile:
     image:
-      url: ""
-    name: "Jekyll Blog"
-    id: "@jekyll_blog"
+      url: "https://amrella.com/favicon.png"
+    name: "Dewan Mukto"
+    id: "@dewan_mukto"
   post:
     default_thumbnail: "https://avatars3.githubusercontent.com/u/3083652?s=200&v=4"
   twitter:
