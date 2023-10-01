@@ -6,4 +6,6 @@ icon: "about_icon.html"
 
 # About
 
-This is a twitter theme for Jekyll.
+Fukouna Shoujo 03.
+
+This theme was made by [K. Kent](https://github.com/kkent030315/jekyll-twitter-theme)
